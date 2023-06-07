@@ -381,3 +381,14 @@ ORDER BY Count_of_rides_casual DESC
 ```
 The most used station (end & start) for member is 'Kingsbury St & Kinzie St'
 The most used station (end & start) for casual is 'Streeter Dr & Grand Ave'
+
+# SHARE
+In this stage, we engage stakeholders by presenting the outcomes of our analyses through intuitive visual representations. These visualizations effectively communicate the insights acquired from our SQL queries.
+
+To present my findings, I utilized Tableau to develop an interactive dashboard. You can access the dashboard containing the results by visiting the following [link](https://public.tableau.com/app/profile/souleymane2008/viz/CapstoneProjectBikeSharing/Dashboard1)
+
+With the analyses we completed, we can see that both casual and member use of the service increases during summer, the busiest days for members are during the week while for casual it is the week end. Members mainly use it in morning and afternoon while casual mainly during afternoon and evening. 
+
+## Recommendations :
+
+# ACT
