@@ -387,8 +387,13 @@ In this stage, we engage stakeholders by presenting the outcomes of our analyses
 
 To present my findings, I utilized Tableau to develop an interactive dashboard. You can access the dashboard containing the results by visiting the following [link](https://public.tableau.com/app/profile/souleymane2008/viz/CapstoneProjectBikeSharing/Dashboard1)
 
-With the analyses we completed, we can see that both casual and member use of the service increases during summer, the busiest days for members are during the week while for casual it is the week end. Members mainly use it in morning and afternoon while casual mainly during afternoon and evening. 
+# ACT
+With the analysis we completed, we can see that both casual and member use of the service increases during summer, the busiest days for members are during the week while for casual it is the week end. Members mainly use it in morning and afternoon while casual mainly during afternoon and evening. The busiest stations are 'Kingsbury St & Kinzie St' for members and 'Streeter Dr & Grand Ave' for casuals.
 
 ## Recommendations :
+In order to attract more casual riders and convert them into member riders, it is advisable to focus the marketing campaign on the summer season and specifically target the hours between 4pm to 6pm. Additionally, since casual riders tend to be more active on Saturdays, the campaign should emphasize weekend ridership. Introducing a summer membership option could be a compelling offer to entice casual riders who would typically opt for day passes.
 
-# ACT
+An essential aspect of the marketing campaign should highlight the convenience of the bike-sharing system, emphasizing that bikes can be unlocked from one station and returned to any other station at any time. This information might persuade casual riders to consider an annual membership instead of one-time rides.
+
+As member riders contribute more significantly to the company's profitability, it is recommended to incentivize them to promote the benefits of an annual membership to their friends and neighbors. For instance, providing a modest discount on membership fees for member riders who successfully refer a casual rider to join as a membe
+
