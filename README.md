@@ -1,5 +1,6 @@
 # Cyclistic Bike Sharing Project
-![ChicagoBikeShare](https://github.com/Soul3y/GoogleBikeSharingProject/assets/126265295/c7e96662-a855-4b93-b7fb-be2cb0cc12bb)
+![ChicagoBikeShare](https://github.com/Soul3y/GoogleBikeSharingProject/assets/126265295/eeb0e6d4-e15a-4734-8a07-4206c4d4f39c)
+
 
 
 ## Scenario :
