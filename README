@@ -21,7 +21,7 @@ Three questions will guide the future marketing program:
 I was assigned the first question to answer: How do annual members and casual riders use Cyclistic bikes differently?
 
 # PREPARE
-For this project, I used 12 months of Cyclistic's 2022-2023 bike ride data from the Divvy database here. The trip data used is from Mar 2022 to Feb 2023, and has been made available by Motivate International Inc. under this license.
+For this project, I used 12 months of Cyclistic's 2022-2023 bike ride data from the Divvy database here. The trip data used is from Mar 2022 to Feb 2023, and has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 They are CSV files with 13 columns and more than 500 000 rows for each files. Each rows represent one ride with a unique ride id while the columns are as follows : 
 - ride_id
 - rideable_type
