@@ -1,5 +1,6 @@
 # Cyclistic Bike Sharing Project
-![nashvillemiyazaki](https://user-images.githubusercontent.com/126265295/232151627-2a3a9752-ce97-4042-b134-6970d942e100.jpg)
+![ChicagoBikeShare](https://github.com/Soul3y/GoogleBikeSharingProject/assets/126265295/c7e96662-a855-4b93-b7fb-be2cb0cc12bb)
+
 
 ## Scenario :
 In this case study I will be a data analyst working for a bike-share company called Cyclistic. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, our team will design a new marketing strategy to convert casual riders into annual members.
